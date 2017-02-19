@@ -1,0 +1,1 @@
+./Debug/Board.cpp.o ./Debug/Player.cpp.o ./Debug/Monster.cpp.o   
